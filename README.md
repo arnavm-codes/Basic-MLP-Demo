@@ -2,7 +2,7 @@
 ## About MLP or Multi-Layered Perceptron
 ### MLP is a class of feedfroward Neural Networks, made up of 3 layers: input, hidden, output. Each neuron is connected to every neuron in the next layer.
 - input layer : passes data foward.
-- hidden layer/s : ads biases, weights and impliments activation function to introduce non-linearity.
+- hidden layer/s : adds biases, weights and impliments activation function to introduce non-linearity.
 - output layer: gives predictions.
   
 ## About Dataset
